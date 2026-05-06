@@ -1,0 +1,167 @@
+[
+  {
+    "id": "bill-foster",
+    "name": "Bill Foster",
+    "office": "U.S. Representative, IL-11",
+    "party": "Democrat",
+    "stemBackground": "PhD Physics, Harvard",
+    "field": "Particle Physics",
+    "bio": "Bill Foster is the only PhD physicist currently serving in Congress. Before entering politics, he worked as a particle physicist at Fermilab for 22 years, contributing to the discovery of the top quark.",
+    "active": true,
+    "image": null
+  },
+  {
+    "id": "jerry-mcnerney",
+    "name": "Jerry McNerney",
+    "office": "U.S. Representative, CA-9",
+    "party": "Democrat",
+    "stemBackground": "PhD Mathematics, University of New Mexico",
+    "field": "Wind Energy Engineering",
+    "bio": "Jerry McNerney holds a doctorate in mathematics and spent years as a wind energy engineer before entering politics. He is one of Congress's leading voices on clean energy and science policy.",
+    "active": true,
+    "image": null
+  },
+  {
+    "id": "elaine-luria",
+    "name": "Elaine Luria",
+    "office": "Former U.S. Representative, VA-2",
+    "party": "Democrat",
+    "stemBackground": "BS Physics, U.S. Naval Academy",
+    "field": "Nuclear Engineering",
+    "bio": "Elaine Luria served as a nuclear engineer in the U.S. Navy for 20 years before entering Congress. She served on the House Armed Services Committee and was a key member of the January 6th Select Committee.",
+    "active": false,
+    "image": null
+  },
+  {
+    "id": "alan-grayson",
+    "name": "Alan Grayson",
+    "office": "Former U.S. Representative, FL",
+    "party": "Democrat",
+    "stemBackground": "MD, Harvard Medical School",
+    "field": "Medicine",
+    "bio": "Alan Grayson earned his medical degree from Harvard and practiced medicine before entering politics. Known for his outspoken advocacy on healthcare reform during multiple terms in the House.",
+    "active": false,
+    "image": null
+  },
+  {
+    "id": "bill-cassidy",
+    "name": "Bill Cassidy",
+    "office": "U.S. Senator, LA",
+    "party": "Republican",
+    "stemBackground": "MD, Louisiana State University",
+    "field": "Gastroenterology",
+    "bio": "Bill Cassidy is a physician and gastroenterologist who practiced medicine before serving in the Senate. He has been a leading congressional voice on healthcare policy and was one of seven Republican senators to vote to convict Trump at his second impeachment trial.",
+    "active": true,
+    "image": null
+  },
+  {
+    "id": "rand-paul",
+    "name": "Rand Paul",
+    "office": "U.S. Senator, KY",
+    "party": "Republican",
+    "stemBackground": "MD, Duke University School of Medicine",
+    "field": "Ophthalmology",
+    "bio": "Rand Paul is a board-certified ophthalmologist who practiced eye surgery in Kentucky before entering the Senate. He frequently applies his medical background to debates on healthcare legislation and pandemic policy.",
+    "active": true,
+    "image": null
+  },
+  {
+    "id": "herbert-hoover",
+    "name": "Herbert Hoover",
+    "office": "31st President of the United States",
+    "party": "Republican",
+    "stemBackground": "BS Geology/Mining Engineering, Stanford University",
+    "field": "Mining Engineering",
+    "bio": "Herbert Hoover was a world-renowned mining engineer and humanitarian before becoming president. He organized food relief for millions of Europeans during WWI, demonstrating how technical competence and logistical thinking can save lives at scale.",
+    "active": false,
+    "image": null
+  },
+  {
+    "id": "jimmy-carter",
+    "name": "Jimmy Carter",
+    "office": "39th President of the United States",
+    "party": "Democrat",
+    "stemBackground": "BS Nuclear Physics, U.S. Naval Academy",
+    "field": "Nuclear Physics",
+    "bio": "Jimmy Carter studied nuclear physics at the Naval Academy and worked under Admiral Hyman Rickover on the early nuclear submarine program. When the Three Mile Island accident occurred in 1979, his technical background allowed him to understand the crisis firsthand and make informed decisions.",
+    "active": false,
+    "image": null
+  },
+  {
+    "id": "rush-holt",
+    "name": "Rush Holt",
+    "office": "Former U.S. Representative, NJ-12",
+    "party": "Democrat",
+    "stemBackground": "PhD Physics, New York University",
+    "field": "Plasma Physics",
+    "bio": "Rush Holt was a plasma physicist and assistant director of the Princeton Plasma Physics Laboratory before entering Congress. He famously defeated IBM's Watson computer on Jeopardy! in 2011 and was a tireless advocate for science funding and evidence-based policy.",
+    "active": false,
+    "image": null
+  },
+  {
+    "id": "vernon-ehlers",
+    "name": "Vernon Ehlers",
+    "office": "Former U.S. Representative, MI-3",
+    "party": "Republican",
+    "stemBackground": "PhD Physics, UC Berkeley",
+    "field": "Physics",
+    "bio": "Vernon Ehlers was the first research physicist elected to Congress. He was a strong advocate for science education and research funding throughout his tenure, helping to craft the America COMPETES Act.",
+    "active": false,
+    "image": null
+  },
+  {
+    "id": "vern-buchanan",
+    "name": "Vern Buchanan",
+    "office": "U.S. Representative, FL-16",
+    "party": "Republican",
+    "stemBackground": "MBA, University of Detroit",
+    "field": "Business & Finance",
+    "bio": "Vern Buchanan built a successful business empire before entering Congress. He sits on the House Ways and Means Committee and focuses on tax and fiscal policy issues.",
+    "active": true,
+    "image": null
+  },
+  {
+    "id": "eddie-bernice-johnson",
+    "name": "Eddie Bernice Johnson",
+    "office": "Former U.S. Representative, TX-30",
+    "party": "Democrat",
+    "stemBackground": "BSN Nursing; MPA, Southern Methodist University",
+    "field": "Nursing & Public Administration",
+    "bio": "Eddie Bernice Johnson was a registered nurse and the first nurse elected to Congress. She chaired the House Science, Space, and Technology Committee, making her one of the most important science policymakers in recent congressional history.",
+    "active": false,
+    "image": null
+  },
+  {
+    "id": "brian-babin",
+    "name": "Brian Babin",
+    "office": "U.S. Representative, TX-36",
+    "party": "Republican",
+    "stemBackground": "DDS, University of Texas Health Science Center",
+    "field": "Dentistry",
+    "bio": "Brian Babin practiced dentistry for decades in Texas before entering Congress. He chairs the House Science, Space, and Technology Committee's Subcommittee on Space, bringing a STEM professional's perspective to space policy.",
+    "active": true,
+    "image": null
+  },
+  {
+    "id": "david-schweikert",
+    "name": "David Schweikert",
+    "office": "U.S. Representative, AZ-1",
+    "party": "Republican",
+    "stemBackground": "BS Finance, Arizona State University",
+    "field": "Finance & Real Estate",
+    "bio": "David Schweikert worked in real estate and finance before entering Congress. He serves on the House Ways and Means Committee and focuses heavily on fiscal policy, tax issues, and cryptocurrency regulation.",
+    "active": true,
+    "image": null
+  },
+  {
+    "id": "roscoe-bartlett",
+    "name": "Roscoe Bartlett",
+    "office": "Former U.S. Representative, MD-6",
+    "party": "Republican",
+    "stemBackground": "PhD Human Physiology, University of Maryland",
+    "field": "Physiology",
+    "bio": "Roscoe Bartlett was a research scientist and professor who held 20 patents before entering Congress. He was a prominent voice on energy security and human physiology research, and served on the House Science Committee.",
+    "active": false,
+    "image": null
+  }
+]
