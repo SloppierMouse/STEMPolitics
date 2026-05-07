@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import Image from "next/image";
 import politicians from "@/data/politicians.json";
 
 type Party = "All" | "Democrat" | "Republican";
@@ -75,15 +76,25 @@ export default function PoliticiansPage() {
             key={politician.id}
             className="bg-white rounded-lg border border-gray-200 overflow-hidden hover:shadow-md transition-shadow"
           >
-            {/* Photo placeholder */}
-            <div className="h-40 bg-gray-200 flex items-center justify-center">
-              <span className="text-4xl font-semibold text-gray-400">
-                {politician.name
-                  .split(" ")
-                  .map((n) => n[0])
-                  .join("")
-                  .slice(0, 2)}
-              </span>
+            {/* Photo */}
+            <div className="h-40 bg-gray-200 flex items-center justify-center overflow-hidden relative">
+              {politician.image ? (
+                <Image
+                  src={politician.image}
+                  alt={politician.name}
+                  fill
+                  className="object-cover object-top"
+                  sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
+                />
+              ) : (
+                <span className="text-4xl font-semibold text-gray-400">
+                  {politician.name
+                    .split(" ")
+                    .map((n) => n[0])
+                    .join("")
+                    .slice(0, 2)}
+                </span>
+              )}
             </div>
 
             <div className="p-5">
