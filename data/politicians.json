@@ -8,7 +8,7 @@
     "field": "Particle Physics",
     "bio": "Bill Foster is the only PhD physicist currently serving in Congress. Before entering politics, he worked as a particle physicist at Fermilab for 22 years, contributing to the discovery of the top quark.",
     "active": true,
-    "image": null
+    "image": "/politicians/bill-foster.jpg"
   },
   {
     "id": "jerry-mcnerney",
@@ -19,7 +19,7 @@
     "field": "Wind Energy Engineering",
     "bio": "Jerry McNerney holds a doctorate in mathematics and spent years as a wind energy engineer before entering politics. He is one of Congress's leading voices on clean energy and science policy.",
     "active": true,
-    "image": null
+    "image": "/politicians/jerry-mcnerney.jpg"
   },
   {
     "id": "elaine-luria",
@@ -30,7 +30,7 @@
     "field": "Nuclear Engineering",
     "bio": "Elaine Luria served as a nuclear engineer in the U.S. Navy for 20 years before entering Congress. She served on the House Armed Services Committee and was a key member of the January 6th Select Committee.",
     "active": false,
-    "image": null
+    "image": "/politicians/elaine-luria.jpg"
   },
   {
     "id": "alan-grayson",
@@ -41,7 +41,7 @@
     "field": "Medicine",
     "bio": "Alan Grayson earned his medical degree from Harvard and practiced medicine before entering politics. Known for his outspoken advocacy on healthcare reform during multiple terms in the House.",
     "active": false,
-    "image": null
+    "image": "/politicians/alan-grayson.jpg"
   },
   {
     "id": "bill-cassidy",
@@ -52,7 +52,7 @@
     "field": "Gastroenterology",
     "bio": "Bill Cassidy is a physician and gastroenterologist who practiced medicine before serving in the Senate. He has been a leading congressional voice on healthcare policy and was one of seven Republican senators to vote to convict Trump at his second impeachment trial.",
     "active": true,
-    "image": null
+    "image": "/politicians/bill-cassidy.jpg"
   },
   {
     "id": "rand-paul",
@@ -63,7 +63,7 @@
     "field": "Ophthalmology",
     "bio": "Rand Paul is a board-certified ophthalmologist who practiced eye surgery in Kentucky before entering the Senate. He frequently applies his medical background to debates on healthcare legislation and pandemic policy.",
     "active": true,
-    "image": null
+    "image": "/politicians/rand-paul.jpg"
   },
   {
     "id": "herbert-hoover",
@@ -74,7 +74,7 @@
     "field": "Mining Engineering",
     "bio": "Herbert Hoover was a world-renowned mining engineer and humanitarian before becoming president. He organized food relief for millions of Europeans during WWI, demonstrating how technical competence and logistical thinking can save lives at scale.",
     "active": false,
-    "image": null
+    "image": "/politicians/herbert-hoover.jpg"
   },
   {
     "id": "jimmy-carter",
@@ -85,7 +85,7 @@
     "field": "Nuclear Physics",
     "bio": "Jimmy Carter studied nuclear physics at the Naval Academy and worked under Admiral Hyman Rickover on the early nuclear submarine program. When the Three Mile Island accident occurred in 1979, his technical background allowed him to understand the crisis firsthand and make informed decisions.",
     "active": false,
-    "image": null
+    "image": "/politicians/jimmy-carter.jpg"
   },
   {
     "id": "rush-holt",
@@ -96,7 +96,7 @@
     "field": "Plasma Physics",
     "bio": "Rush Holt was a plasma physicist and assistant director of the Princeton Plasma Physics Laboratory before entering Congress. He famously defeated IBM's Watson computer on Jeopardy! in 2011 and was a tireless advocate for science funding and evidence-based policy.",
     "active": false,
-    "image": null
+    "image": "/politicians/rush-holt.jpg"
   },
   {
     "id": "vernon-ehlers",
@@ -107,7 +107,7 @@
     "field": "Physics",
     "bio": "Vernon Ehlers was the first research physicist elected to Congress. He was a strong advocate for science education and research funding throughout his tenure, helping to craft the America COMPETES Act.",
     "active": false,
-    "image": null
+    "image": "/politicians/vernon-ehlers.jpg"
   },
   {
     "id": "vern-buchanan",
@@ -118,7 +118,7 @@
     "field": "Business & Finance",
     "bio": "Vern Buchanan built a successful business empire before entering Congress. He sits on the House Ways and Means Committee and focuses on tax and fiscal policy issues.",
     "active": true,
-    "image": null
+    "image": "/politicians/vern-buchanan.jpg"
   },
   {
     "id": "eddie-bernice-johnson",
@@ -129,7 +129,7 @@
     "field": "Nursing & Public Administration",
     "bio": "Eddie Bernice Johnson was a registered nurse and the first nurse elected to Congress. She chaired the House Science, Space, and Technology Committee, making her one of the most important science policymakers in recent congressional history.",
     "active": false,
-    "image": null
+    "image": "/politicians/eddie-bernice-johnson.jpg"
   },
   {
     "id": "brian-babin",
@@ -140,7 +140,7 @@
     "field": "Dentistry",
     "bio": "Brian Babin practiced dentistry for decades in Texas before entering Congress. He chairs the House Science, Space, and Technology Committee's Subcommittee on Space, bringing a STEM professional's perspective to space policy.",
     "active": true,
-    "image": null
+    "image": "/politicians/brian-babin.jpg"
   },
   {
     "id": "david-schweikert",
@@ -151,7 +151,7 @@
     "field": "Finance & Real Estate",
     "bio": "David Schweikert worked in real estate and finance before entering Congress. He serves on the House Ways and Means Committee and focuses heavily on fiscal policy, tax issues, and cryptocurrency regulation.",
     "active": true,
-    "image": null
+    "image": "/politicians/david-schweikert.jpg"
   },
   {
     "id": "roscoe-bartlett",
@@ -162,6 +162,6 @@
     "field": "Physiology",
     "bio": "Roscoe Bartlett was a research scientist and professor who held 20 patents before entering Congress. He was a prominent voice on energy security and human physiology research, and served on the House Science Committee.",
     "active": false,
-    "image": null
+    "image": "/politicians/roscoe-bartlett.jpg"
   }
 ]
