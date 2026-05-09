@@ -1,30 +1,38 @@
 #!/usr/bin/env bash
-# Downloads public-domain headshots for all politicians in data/politicians.json.
-# Sources:
-#   - Congress members: https://bioguide.congress.gov (public domain)
-#   - Presidents: Wikimedia Commons (public domain White House portraits)
+# HOW TO ADD A NEW POLITICIAN:
+# 1. Add their entry to data/politicians.json with an "image" field
+# 2. Add a curl line below using the same filename
+# 3. Run: bash scripts/download-headshots.sh
+# Sources: bioguide.congress.gov (Congress members), Wikimedia Commons (historical/others)
 #
 # Run from the repo root: bash scripts/download-headshots.sh
 
-set -euo pipefail
+set -uo pipefail
 
 DEST="public/politicians"
 mkdir -p "$DEST"
+
+FAILED=0
 
 download() {
   local name="$1"
   local url="$2"
   local file="$DEST/$name"
   if [[ -f "$file" ]]; then
-    echo "  skip  $name (already exists)"
+    echo "✓ skipped  $name (already exists)"
     return
   fi
-  echo "  fetch $name"
-  curl -fsSL -o "$file" "$url"
+  if curl -fsSL --max-time 30 -o "$file" "$url"; then
+    echo "✓ downloaded  $name"
+  else
+    echo "✗ failed  $name  ($url)"
+    rm -f "$file"
+    FAILED=1
+  fi
 }
 
-# Congress members — bioguide.congress.gov portraits (all public domain)
-# Bioguide ID format: https://bioguide.congress.gov/bioguide/photo/{FIRST_LETTER}/{ID}.jpg
+# Congress members — bioguide.congress.gov portraits (public domain)
+# URL pattern: https://bioguide.congress.gov/bioguide/photo/{FIRST_LETTER}/{BIOGUIDE_ID}.jpg
 BIOGUIDE="https://bioguide.congress.gov/bioguide/photo"
 
 download "bill-foster.jpg"           "$BIOGUIDE/F/F000454.jpg"
@@ -33,23 +41,31 @@ download "elaine-luria.jpg"          "$BIOGUIDE/L/L000590.jpg"
 download "alan-grayson.jpg"          "$BIOGUIDE/G/G000556.jpg"
 download "bill-cassidy.jpg"          "$BIOGUIDE/C/C001075.jpg"
 download "rand-paul.jpg"             "$BIOGUIDE/P/P000603.jpg"
-download "rush-holt.jpg"             "$BIOGUIDE/H/H000045.jpg"
 download "vernon-ehlers.jpg"         "$BIOGUIDE/E/E000110.jpg"
-download "vern-buchanan.jpg"         "$BIOGUIDE/B/B001260.jpg"
-download "eddie-bernice-johnson.jpg" "$BIOGUIDE/J/J000126.jpg"
+download "roscoe-bartlett.jpg"       "$BIOGUIDE/B/B000153.jpg"
 download "brian-babin.jpg"           "$BIOGUIDE/B/B001291.jpg"
 download "david-schweikert.jpg"      "$BIOGUIDE/S/S001183.jpg"
-download "roscoe-bartlett.jpg"       "$BIOGUIDE/B/B000206.jpg"
+download "vern-buchanan.jpg"         "$BIOGUIDE/B/B001260.jpg"
 
-# Presidents — official White House portraits via Wikimedia Commons (public domain)
+# Wikimedia Commons — public domain portraits
 WIKI="https://upload.wikimedia.org/wikipedia/commons"
 
+download "rush-holt.jpg" \
+  "$WIKI/thumb/e/e4/Rep_Holt_Official_Headshot.jpg/440px-Rep_Holt_Official_Headshot.jpg"
+
+download "eddie-bernice-johnson.jpg" \
+  "$WIKI/thumb/4/4d/Eddie_Bernice_Johnson_Portrait.jpg/440px-Eddie_Bernice_Johnson_Portrait.jpg"
+
 download "herbert-hoover.jpg" \
-  "$WIKI/thumb/0/05/HHPL-hhpres.jpg/400px-HHPL-hhpres.jpg"
+  "$WIKI/thumb/6/65/Herbert_Hoover.jpg/440px-Herbert_Hoover.jpg"
 
 download "jimmy-carter.jpg" \
-  "$WIKI/thumb/5/5a/JimmyCarterPortrait_%28cropped%29.jpg/400px-JimmyCarterPortrait_%28cropped%29.jpg"
+  "$WIKI/thumb/5/5a/JimmyCarter.jpg/440px-JimmyCarter.jpg"
 
 echo ""
-echo "Done. Files in $DEST:"
+if [[ "$FAILED" -ne 0 ]]; then
+  echo "Some downloads failed. Check the ✗ lines above."
+  exit 1
+fi
+echo "All done. Files in $DEST:"
 ls -lh "$DEST"
