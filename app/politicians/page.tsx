@@ -77,13 +77,13 @@ export default function PoliticiansPage() {
             className="bg-white rounded-lg border border-gray-200 overflow-hidden hover:shadow-md transition-shadow"
           >
             {/* Photo */}
-            <div className="h-70 bg-gray-200 flex items-center justify-center overflow-hidden relative">
+            <div className="h-40 bg-gray-200 flex items-center justify-center overflow-hidden relative">
               {politician.image ? (
                 <Image
                   src={politician.image}
                   alt={politician.name}
                   fill
-                  className="object-cover object-center"
+                  className="object-cover object-top"
                   sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
                 />
               ) : (
