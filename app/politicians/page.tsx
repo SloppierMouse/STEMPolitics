@@ -83,7 +83,7 @@ export default function PoliticiansPage() {
                   src={politician.image}
                   alt={politician.name}
                   fill
-                  className="object-cover object-top"
+                  className="object-cover object-center"
                   sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
                 />
               ) : (
