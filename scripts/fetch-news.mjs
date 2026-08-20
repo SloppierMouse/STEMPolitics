@@ -149,6 +149,12 @@ no preamble) with this exact shape:
   "summary": string      // exactly 2 sentences, factual and neutral, written for this audience
 }
 
+Only summarize what is explicitly stated in the title and description.
+If the description does not contain enough information to summarize
+confidently, write a shorter, more general summary based only on the
+title and available facts — never speculate, infer, or guess what the
+article likely covers.
+
 Article title: ${title}
 Article description: ${description}`;
 }
