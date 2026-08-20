@@ -1,1 +1,54 @@
-[]
+[
+  {
+    "id": "1b038c026a2d838ca8738400e49a8a28e55ae4df",
+    "title": "Heatwaves expose weak links in food systems",
+    "url": "https://www.nature.com/articles/d41586-026-02577-3",
+    "source": "Nature News",
+    "publishedAt": "2026-08-18T00:00:00.000Z",
+    "topic": "Climate",
+    "summary": "Recent heatwaves have revealed vulnerabilities in global food systems, highlighting how extreme weather impacts agricultural production and supply chains. The article examines the policy and infrastructure challenges that need to be addressed to build more resilient food systems in the face of climate change.",
+    "summaryIsFallback": false,
+    "coverageScore": 1,
+    "featured": false,
+    "addedAt": "2026-08-20T02:56:42.616Z"
+  },
+  {
+    "id": "77bd9830bbc6d708a420ead85765a809acc9a833",
+    "title": "Will you be wearing an exoskeleton in ten years? The tech that could change how we move",
+    "url": "https://www.nature.com/articles/d41586-026-02527-z",
+    "source": "Nature News",
+    "publishedAt": "2026-08-18T00:00:00.000Z",
+    "topic": "Uncategorized",
+    "summary": "The article explores exoskeleton technology and its potential applications over the next decade. It examines how this emerging technology could transform human mobility and movement capabilities.",
+    "summaryIsFallback": false,
+    "coverageScore": 1,
+    "featured": false,
+    "addedAt": "2026-08-20T02:56:43.737Z"
+  },
+  {
+    "id": "38b83bcd08bb1cb91d9d9c5913da0554cc2806a4",
+    "title": "A revolutionary stem-cell therapy must proceed responsibly to achieve its full potential",
+    "url": "https://www.nature.com/articles/d41586-026-02524-2",
+    "source": "Nature News",
+    "publishedAt": "2026-08-18T00:00:00.000Z",
+    "topic": "Health",
+    "summary": "A new stem-cell therapy shows significant promise but requires responsible development to maximize its benefits. The article discusses the importance of careful oversight and governance as this treatment advances.",
+    "summaryIsFallback": false,
+    "coverageScore": 1,
+    "featured": false,
+    "addedAt": "2026-08-20T02:56:45.128Z"
+  },
+  {
+    "id": "594c235ca25199ca09522b27f743a6f3a8434081",
+    "title": "Why AI systems are most useful as designers of new scientific tools",
+    "url": "https://www.nature.com/articles/d41586-026-02529-x",
+    "source": "Nature News",
+    "publishedAt": "2026-08-17T00:00:00.000Z",
+    "topic": "AI Policy",
+    "summary": "The article explores AI systems' potential role in designing new scientific tools and instruments, rather than merely analyzing data. This positions AI as a generative technology for advancing scientific research capabilities.",
+    "summaryIsFallback": false,
+    "coverageScore": 1,
+    "featured": false,
+    "addedAt": "2026-08-20T02:56:46.852Z"
+  }
+]
