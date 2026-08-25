@@ -1,5 +1,18 @@
 [
   {
+    "id": "8c2885a5340618375d814e70b4494cb62fe5ba9c",
+    "title": "Did climate change cause this heat wave? Most likely, and here's why",
+    "url": "https://www.npr.org/2026/08/25/nx-s1-5940053/heat-wave-extreme-forecast-climate",
+    "source": "NPR Science",
+    "publishedAt": "2026-08-25T09:00:00.000Z",
+    "topic": "Climate",
+    "summary": "NPR's senior climate editor explains the connection between climate change and extreme heat waves, providing guidance on how to communicate this scientific relationship. The piece outlines the reasoning behind attributing specific weather events to anthropogenic climate change.",
+    "summaryIsFallback": false,
+    "coverageScore": 1,
+    "featured": false,
+    "addedAt": "2026-08-25T13:55:21.630Z"
+  },
+  {
     "id": "82fd491cd64e8e43bd2b80768f61efc76ddab66d",
     "title": "How one researcher captured a vanished world of UK government science",
     "url": "https://www.nature.com/articles/d41586-026-02094-3",
