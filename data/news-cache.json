@@ -1,5 +1,31 @@
 [
   {
+    "id": "82fd491cd64e8e43bd2b80768f61efc76ddab66d",
+    "title": "How one researcher captured a vanished world of UK government science",
+    "url": "https://www.nature.com/articles/d41586-026-02094-3",
+    "source": "Nature News",
+    "publishedAt": "2026-08-25T00:00:00.000Z",
+    "topic": "Science Funding",
+    "summary": "A researcher has documented historical records of UK government science operations that were previously inaccessible or at risk of being lost. The work preserves important institutional knowledge about how science has been conducted and governed within the British government.",
+    "summaryIsFallback": false,
+    "coverageScore": 1,
+    "featured": false,
+    "addedAt": "2026-08-25T10:38:18.687Z"
+  },
+  {
+    "id": "358e5abc48a2f1e2118e22ee5b81b877895f2bae",
+    "title": "How tech-enhanced sleep could improve rest but erode privacy",
+    "url": "https://www.nature.com/articles/d41586-026-02573-7",
+    "source": "Nature News",
+    "publishedAt": "2026-08-25T00:00:00.000Z",
+    "topic": "Tech Regulation",
+    "summary": "Emerging sleep technology promises to enhance rest quality through data collection and analysis, but raises significant privacy concerns about the personal health information being gathered. The article examines the tradeoffs between potential sleep improvements and the erosion of user privacy in sleep-tracking devices and applications.",
+    "summaryIsFallback": false,
+    "coverageScore": 1,
+    "featured": false,
+    "addedAt": "2026-08-25T10:38:20.293Z"
+  },
+  {
     "id": "70b0da478a5ff752d13c252c06ffa76a98eb7a2f",
     "title": "Frontier-technology markets are too narrow — here’s how to widen them",
     "url": "https://www.nature.com/articles/d41586-026-02572-8",
