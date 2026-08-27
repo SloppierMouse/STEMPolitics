@@ -1,5 +1,44 @@
 [
   {
+    "id": "82d3d4dfd68fc6fc6bb4b526eadf5879a838eeaa",
+    "title": "A space telescope was falling from orbit. Its rescue mission fell apart too",
+    "url": "https://www.sciencenews.org/article/swift-space-telescope-failed-rescue",
+    "source": "Science News",
+    "publishedAt": "2026-08-27T14:00:00.000Z",
+    "topic": "Space",
+    "summary": "NASA's attempt to rescue the Swift space telescope, which was falling from orbit, ultimately failed. The incident has exposed challenges in the emerging field of satellite servicing technology and operations.",
+    "summaryIsFallback": false,
+    "coverageScore": 1,
+    "featured": false,
+    "addedAt": "2026-08-27T19:42:39.820Z"
+  },
+  {
+    "id": "68f7f4e635a2500b3c777a1ad37f46723aea2078",
+    "title": "Women face bans on research underground — here’s how to modernize the system",
+    "url": "https://www.nature.com/articles/d41586-026-02679-y",
+    "source": "Nature News",
+    "publishedAt": "2026-08-27T00:00:00.000Z",
+    "topic": "Science Funding",
+    "summary": "Women researchers face restrictions on conducting work in underground research facilities, raising questions about equity in access to scientific infrastructure. The article discusses potential policy reforms to modernize underground research systems and remove gender-based barriers to participation.",
+    "summaryIsFallback": false,
+    "coverageScore": 1,
+    "featured": false,
+    "addedAt": "2026-08-27T19:42:33.672Z"
+  },
+  {
+    "id": "764f7b865b9720d779f829f09f291f0cba5eac59",
+    "title": "Why are El Niños getting stronger? 1000-year-coral record points to climate change",
+    "url": "https://www.nature.com/articles/d41586-026-02717-9",
+    "source": "Nature News",
+    "publishedAt": "2026-08-27T00:00:00.000Z",
+    "topic": "Climate",
+    "summary": "Scientists analyzing a 1000-year coral record have found evidence linking strengthening El Niño events to climate change. The research suggests that historical coral data provides insights into how global warming may be intensifying these climate patterns.",
+    "summaryIsFallback": false,
+    "coverageScore": 1,
+    "featured": false,
+    "addedAt": "2026-08-27T19:42:35.131Z"
+  },
+  {
     "id": "8b8af07cc7a49920a71b44414d674ad369d49ed9",
     "title": "Microbes might get freeze-dried on the moon’s south pole",
     "url": "https://www.sciencenews.org/article/microbes-freeze-dried-moons-south-pole",
