@@ -1,5 +1,44 @@
 [
   {
+    "id": "208ff94693d73a1638bfa5af47a3e6a4654b3118",
+    "title": "NASA’s new space telescope will reveal the universe like never before",
+    "url": "https://www.sciencenews.org/article/nasa-nancy-roman-space-telescope",
+    "source": "Science News",
+    "publishedAt": "2026-08-28T13:00:00.000Z",
+    "topic": "Space",
+    "summary": "NASA is deploying the Nancy Grace Roman space telescope, designed to advance research across multiple astrophysical domains. The telescope will investigate dark matter, dark energy, and exoplanets among other cosmic phenomena.",
+    "summaryIsFallback": false,
+    "coverageScore": 1,
+    "featured": false,
+    "addedAt": "2026-08-28T17:14:04.645Z"
+  },
+  {
+    "id": "d1cb3200c034507972d71245f671e24e82da9247",
+    "title": "NASA is about to launch a space telescope that could change how we see the universe",
+    "url": "https://www.npr.org/2026/08/28/nx-s1-5905370/nasa-nancy-grace-roman-space-telescope-dark-energy-supernova",
+    "source": "NPR Science",
+    "publishedAt": "2026-08-28T10:00:00.000Z",
+    "topic": "Space",
+    "summary": "NASA will launch the Nancy Grace Roman Space Telescope on August 30, 2024. The mission aims to investigate major unresolved questions about the cosmos.",
+    "summaryIsFallback": false,
+    "coverageScore": 1,
+    "featured": false,
+    "addedAt": "2026-08-28T17:13:57.980Z"
+  },
+  {
+    "id": "f0194fd1ace72d6aa9d4050e396ac7af3f3fa941",
+    "title": "A melting glacier contributed to the deadly Nepal floods. We can expect more like this",
+    "url": "https://www.npr.org/2026/08/28/nx-s1-5945799/nepal-floods-climate-change-himalayas",
+    "source": "NPR Science",
+    "publishedAt": "2026-08-28T09:00:00.000Z",
+    "topic": "Climate",
+    "summary": "A recent glacier melt in Nepal contributed to deadly floods in the region, with scientists attributing the disaster to ongoing climate warming. Researchers warn that similar climate-driven flooding events will become more frequent as global temperatures continue to rise.",
+    "summaryIsFallback": false,
+    "coverageScore": 1,
+    "featured": false,
+    "addedAt": "2026-08-28T17:13:59.180Z"
+  },
+  {
     "id": "82d3d4dfd68fc6fc6bb4b526eadf5879a838eeaa",
     "title": "A space telescope was falling from orbit. Its rescue mission fell apart too",
     "url": "https://www.sciencenews.org/article/swift-space-telescope-failed-rescue",
