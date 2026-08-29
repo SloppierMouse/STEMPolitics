@@ -1,5 +1,31 @@
 [
   {
+    "id": "fb1610e2789f15ec0992790eae2136d94b6b19e7",
+    "title": "Trump cuts to science advisory boards have long-lasting consequences, researchers say",
+    "url": "https://www.npr.org/2026/08/29/nx-s1-5945029/trump-cut-science-advisory-committees-consequences",
+    "source": "NPR Science",
+    "publishedAt": "2026-08-29T10:00:00.000Z",
+    "topic": "Science Funding",
+    "summary": "President Trump has dismissed hundreds of federal science advisory board members since taking office. Researchers warn that removing these top experts will have long-term negative consequences for science policy and research guidance.",
+    "summaryIsFallback": false,
+    "coverageScore": 1,
+    "featured": false,
+    "addedAt": "2026-08-29T14:17:34.017Z"
+  },
+  {
+    "id": "b6af05e03fce51ac5ff8957fbc88629cc6e7abb9",
+    "title": "Scientists collaborated with narwhals to study warming waters in the Arctic",
+    "url": "https://www.npr.org/2026/08/28/nx-s1-5945279/scientists-collaborated-with-narwhals-to-study-warming-waters-in-the-arctic",
+    "source": "NPR Science",
+    "publishedAt": "2026-08-28T21:12:55.000Z",
+    "topic": "Climate",
+    "summary": "Scientists used narwhals equipped with monitoring instruments to collect data on warming waters in the Arctic and their connection to global sea level rise. The collaborative approach leverages the animals' natural diving capabilities to study the effects of human-caused climate change in a difficult-to-access region.",
+    "summaryIsFallback": false,
+    "coverageScore": 1,
+    "featured": false,
+    "addedAt": "2026-08-29T14:17:35.435Z"
+  },
+  {
     "id": "208ff94693d73a1638bfa5af47a3e6a4654b3118",
     "title": "NASA’s new space telescope will reveal the universe like never before",
     "url": "https://www.sciencenews.org/article/nasa-nancy-roman-space-telescope",
