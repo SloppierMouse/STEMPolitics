@@ -1,5 +1,18 @@
 [
   {
+    "id": "6d0bbb081f97b97fa7daa7eeb6a6e301b5d0ab28",
+    "title": "WATCH LIVE: NASA's newest space telescope launches today",
+    "url": "https://www.npr.org/2026/08/30/nx-s1-5948814/launch-nancy-grace-roman-space-telescope-nasa",
+    "source": "NPR Science",
+    "publishedAt": "2026-08-30T10:30:00.000Z",
+    "topic": "Space",
+    "summary": "NASA is launching a new space telescope designed to study distant planets and cosmic phenomena. The telescope aims to identify over 100,000 exoplanets beyond our solar system.",
+    "summaryIsFallback": false,
+    "coverageScore": 1,
+    "featured": false,
+    "addedAt": "2026-08-30T11:38:18.955Z"
+  },
+  {
     "id": "fb1610e2789f15ec0992790eae2136d94b6b19e7",
     "title": "Trump cuts to science advisory boards have long-lasting consequences, researchers say",
     "url": "https://www.npr.org/2026/08/29/nx-s1-5945029/trump-cut-science-advisory-committees-consequences",
