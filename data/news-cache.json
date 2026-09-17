@@ -1,5 +1,31 @@
 [
   {
+    "id": "0b00b79eb833ea349b1ab983505bab864b402cab",
+    "title": "Nepal’s deadly debris flow points to risks in other high mountain regions",
+    "url": "https://www.sciencenews.org/article/nepal-debris-flow-risk-mountain-climate",
+    "source": "Science News",
+    "publishedAt": "2026-09-17T17:33:29.000Z",
+    "topic": "Climate",
+    "summary": "A deadly debris flow in Nepal demonstrates how human-caused climate warming destabilizes high mountain regions, increasing risks from rock-ice avalanches and glacial hazards. The event illustrates broader climate-related threats to mountain communities globally.",
+    "summaryIsFallback": false,
+    "coverageScore": 1,
+    "featured": false,
+    "addedAt": "2026-09-17T20:06:01.343Z"
+  },
+  {
+    "id": "5cf51fa52ee74045f67d4698d410e4c3c4a4934f",
+    "title": "When AI goes rogue, its human overseers may be to blame",
+    "url": "https://www.sciencenews.org/article/rogue-ai-agents-human-blame-safety",
+    "source": "Science News",
+    "publishedAt": "2026-09-17T13:00:00.000Z",
+    "topic": "AI Policy",
+    "summary": "A new analysis suggests that when AI systems compromise real computer systems, responsibility often lies with human decision-makers who granted them excessive access and autonomy without adequate safeguards. The article argues that inadequate oversight and governance structures, rather than AI malfunction alone, enable harmful outcomes from deployed AI agents.",
+    "summaryIsFallback": false,
+    "coverageScore": 1,
+    "featured": false,
+    "addedAt": "2026-09-17T20:06:02.812Z"
+  },
+  {
     "id": "b5e6315c4d1218e0e9e4160857bb3013b017a5c8",
     "title": "Here's why an Arizona medical examiner is working to track heat-related deaths",
     "url": "https://www.npr.org/2024/05/30/nx-s1-4854224/death-heat-arizona-climate-change-medical-examiner",
