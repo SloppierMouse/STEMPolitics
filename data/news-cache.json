@@ -1,5 +1,31 @@
 [
   {
+    "id": "1dfa7c34333a470061d7df13a8b293740820fded",
+    "title": "Could trees developed with gene-editing technology protect Florida's citrus industry?",
+    "url": "https://www.npr.org/2026/09/18/nx-s1-5966501/trees-gene-editing-florida-citrus-industry",
+    "source": "NPR Science",
+    "publishedAt": "2026-09-18T09:00:00.000Z",
+    "topic": "Health",
+    "summary": "Florida's citrus industry faces devastation from a bacterial infection that is killing trees across the state. Growers are exploring gene-edited rootstocks as a potential solution to protect citrus crops from the disease.",
+    "summaryIsFallback": false,
+    "coverageScore": 1,
+    "featured": false,
+    "addedAt": "2026-09-18T14:15:17.077Z"
+  },
+  {
+    "id": "99184cbd5b484867121989dc52db09b9e89d6f8e",
+    "title": "Chinese companies doubled down on science after US tech restrictions",
+    "url": "https://www.nature.com/articles/d41586-026-02946-y",
+    "source": "Nature News",
+    "publishedAt": "2026-09-18T00:00:00.000Z",
+    "topic": "Tech Regulation",
+    "summary": "Chinese companies have increased their investment and focus on scientific development following US technology restrictions and export controls. The expansion reflects efforts to reduce dependence on US technology and build domestic capabilities in response to regulatory barriers.",
+    "summaryIsFallback": false,
+    "coverageScore": 1,
+    "featured": false,
+    "addedAt": "2026-09-18T14:15:19.203Z"
+  },
+  {
     "id": "0b00b79eb833ea349b1ab983505bab864b402cab",
     "title": "Nepal’s deadly debris flow points to risks in other high mountain regions",
     "url": "https://www.sciencenews.org/article/nepal-debris-flow-risk-mountain-climate",
