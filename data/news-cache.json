@@ -1,5 +1,31 @@
 [
   {
+    "id": "4a244ed2e19681249ad93525de70323e01da9407",
+    "title": "Losing your way of life to climate change matters — and we need a way to measure it",
+    "url": "https://www.nature.com/articles/d41586-026-02928-0",
+    "source": "Nature News",
+    "publishedAt": "2026-09-21T00:00:00.000Z",
+    "topic": "Climate",
+    "summary": "The article argues that climate change's impact on communities' ways of life deserves serious consideration in policy discussions. It calls for developing metrics or frameworks to measure and account for these cultural and lifestyle disruptions in climate policy decisions.",
+    "summaryIsFallback": false,
+    "coverageScore": 1,
+    "featured": false,
+    "addedAt": "2026-09-21T20:54:59.794Z"
+  },
+  {
+    "id": "4d04664f9443d7cbfc73a6b26f54023ff0966f93",
+    "title": "'Epigenetic' editing is here: gene-tagging technique banishes hepatitis B virus",
+    "url": "https://www.nature.com/articles/d41586-026-02981-9",
+    "source": "Nature News",
+    "publishedAt": "2026-09-21T00:00:00.000Z",
+    "topic": "Health",
+    "summary": "Researchers have developed an epigenetic editing technique that tags and eliminates hepatitis B virus without altering DNA sequences. This gene-tagging approach represents a new therapeutic strategy for addressing persistent viral infections.",
+    "summaryIsFallback": false,
+    "coverageScore": 1,
+    "featured": false,
+    "addedAt": "2026-09-21T20:55:00.906Z"
+  },
+  {
     "id": "7c66d7f757750e9e63d1273bee28011f040780e0",
     "title": "Thousands of planned launches, terms of deal, worry some near Louisiana SpaceX site",
     "url": "https://www.npr.org/2026/09/20/nx-s1-5974180/spacex-musk-landry-louisiana-ndas",
