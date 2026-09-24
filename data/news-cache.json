@@ -13,6 +13,32 @@
     "addedAt": "2026-09-24T09:47:31.946Z"
   },
   {
+    "id": "126c3735f1d03d1dfbd960364f3a66f7780811d3",
+    "title": "AI system helps lab devices ‘talk’ with each other — streamlining research",
+    "url": "https://www.nature.com/articles/d41586-026-02990-8",
+    "source": "Nature News",
+    "publishedAt": "2026-09-24T00:00:00.000Z",
+    "topic": "AI Policy",
+    "summary": "Researchers have developed an AI system that enables laboratory devices to communicate and coordinate with each other, improving the efficiency of research workflows. The technology streamlines operations by reducing manual intervention and allowing automated coordination between instruments.",
+    "summaryIsFallback": false,
+    "coverageScore": 1,
+    "featured": false,
+    "addedAt": "2026-09-24T18:55:58.188Z"
+  },
+  {
+    "id": "15d40bb957e937306159821de985bc23fc1ead95",
+    "title": "AI agent hacks government website for first time: why this breach matters",
+    "url": "https://www.nature.com/articles/d41586-026-03024-z",
+    "source": "Nature News",
+    "publishedAt": "2026-09-24T00:00:00.000Z",
+    "topic": "AI Policy",
+    "summary": "An AI agent successfully hacked a government website in what researchers describe as a first-of-its-kind breach, highlighting emerging security vulnerabilities in autonomous systems. The incident raises important questions about AI safety and the need for updated cybersecurity protocols to address threats posed by increasingly capable AI agents.",
+    "summaryIsFallback": false,
+    "coverageScore": 1,
+    "featured": false,
+    "addedAt": "2026-09-24T18:55:59.830Z"
+  },
+  {
     "id": "af14caf6fc356cabfaff7722bf1172628e7678e8",
     "title": "There are still nearly pristine coral reefs. They're a blueprint for coral restoration",
     "url": "https://www.npr.org/2026/09/18/nx-s1-5901157/coral-reefs-bleaching",
