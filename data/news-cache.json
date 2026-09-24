@@ -1,5 +1,31 @@
 [
   {
+    "id": "5fa1927f143dc52b8f422a04ae91cb446d2c06b5",
+    "title": "Under Trump, NIH funding disruptions have evolved. Here's what the numbers show",
+    "url": "https://www.npr.org/2026/09/24/nx-s1-5931971/trump-nih-science-funding-disruptions-charts",
+    "source": "NPR Science",
+    "publishedAt": "2026-09-24T09:00:00.000Z",
+    "topic": "Science Funding",
+    "summary": "The Trump administration has implemented NIH funding disruptions that have resulted in lab closures and job losses across the U.S. biomedical research sector. Data visualizations in the article quantify the specific impacts of these funding changes on American science.",
+    "summaryIsFallback": false,
+    "coverageScore": 1,
+    "featured": false,
+    "addedAt": "2026-09-24T09:47:31.946Z"
+  },
+  {
+    "id": "af14caf6fc356cabfaff7722bf1172628e7678e8",
+    "title": "There are still nearly pristine coral reefs. They're a blueprint for coral restoration",
+    "url": "https://www.npr.org/2026/09/18/nx-s1-5901157/coral-reefs-bleaching",
+    "source": "NPR Science",
+    "publishedAt": "2026-09-23T08:44:10.000Z",
+    "topic": "Climate",
+    "summary": "Scientists are studying pristine coral reefs worldwide to develop restoration strategies as climate change and ocean warming threaten reef ecosystems globally. Healthy reefs serve as models for understanding resilience and informing conservation policies to protect coral biodiversity.",
+    "summaryIsFallback": false,
+    "coverageScore": 1,
+    "featured": false,
+    "addedAt": "2026-09-24T09:47:34.487Z"
+  },
+  {
     "id": "612c0a41acea2cfd8d0848ed946df1fd4cde3fb1",
     "title": "‘Remarkably encouraging’: stem-cell treatments for autoimmune diseases enter new phase",
     "url": "https://www.nature.com/articles/d41586-026-02855-0",
