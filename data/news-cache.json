@@ -1,5 +1,18 @@
 [
   {
+    "id": "54a82611bc81db8ad08575451d28ac5a806e2f16",
+    "title": "SpaceX's Starship launches on first orbital mission from Texas",
+    "url": "https://www.npr.org/2026/09/28/nx-s1-5983418/spacex-starship-first-orbital-flight-14-nasa",
+    "source": "NPR Science",
+    "publishedAt": "2026-09-28T13:15:29.000Z",
+    "topic": "Space",
+    "summary": "SpaceX's Starship completed its first orbital flight from Texas, marking a significant milestone for the uncrewed vehicle on its 14th test flight. The achievement is critical for both SpaceX's commercial objectives and NASA's Artemis program to return humans to the moon.",
+    "summaryIsFallback": false,
+    "coverageScore": 1,
+    "featured": false,
+    "addedAt": "2026-09-28T21:44:25.014Z"
+  },
+  {
     "id": "80c8bec30e8c904d74158c93ad083899212b86a4",
     "title": "Nepal’s floods expose issues with climate-disaster funding — firmer policies are needed fast",
     "url": "https://www.nature.com/articles/d41586-026-03016-z",
