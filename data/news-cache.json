@@ -1,5 +1,18 @@
 [
   {
+    "id": "5c2ae805442675d2f182d1b64b55f843cb0ddbe0",
+    "title": "'It's a nightmare.' Former refugee, professor on Trump's new Medicaid policy",
+    "url": "https://www.npr.org/2026/10/01/nx-s1-5987948/trump-medicaid-health-insurance-disability-refugee",
+    "source": "NPR Science",
+    "publishedAt": "2026-10-01T19:49:45.000Z",
+    "topic": "Health",
+    "summary": "A Republican budget bill passed last year will result in many legally present immigrants losing Medicaid coverage starting October 1. The policy change has drawn criticism from a former refugee and professor quoted in the article.",
+    "summaryIsFallback": false,
+    "coverageScore": 1,
+    "featured": false,
+    "addedAt": "2026-10-02T01:28:08.836Z"
+  },
+  {
     "id": "9973b47d72a76e5f1b46c60e025c80e5dfa30ae1",
     "title": "New space station crew launches from Florida on SpaceX's Crew Dragon capsule",
     "url": "https://www.npr.org/2026/10/01/nx-s1-5987698/nasa-crew-13-spacex-international-space-station-iss",
@@ -661,44 +674,5 @@
     "coverageScore": 1,
     "featured": false,
     "addedAt": "2026-08-24T11:33:53.777Z"
-  },
-  {
-    "id": "1b038c026a2d838ca8738400e49a8a28e55ae4df",
-    "title": "Heatwaves expose weak links in food systems",
-    "url": "https://www.nature.com/articles/d41586-026-02577-3",
-    "source": "Nature News",
-    "publishedAt": "2026-08-18T00:00:00.000Z",
-    "topic": "Climate",
-    "summary": "Recent heatwaves have revealed vulnerabilities in global food systems, highlighting how extreme weather impacts agricultural production and supply chains. The article examines the policy and infrastructure challenges that need to be addressed to build more resilient food systems in the face of climate change.",
-    "summaryIsFallback": false,
-    "coverageScore": 1,
-    "featured": false,
-    "addedAt": "2026-08-20T02:56:42.616Z"
-  },
-  {
-    "id": "77bd9830bbc6d708a420ead85765a809acc9a833",
-    "title": "Will you be wearing an exoskeleton in ten years? The tech that could change how we move",
-    "url": "https://www.nature.com/articles/d41586-026-02527-z",
-    "source": "Nature News",
-    "publishedAt": "2026-08-18T00:00:00.000Z",
-    "topic": "Uncategorized",
-    "summary": "The article explores exoskeleton technology and its potential applications over the next decade. It examines how this emerging technology could transform human mobility and movement capabilities.",
-    "summaryIsFallback": false,
-    "coverageScore": 1,
-    "featured": false,
-    "addedAt": "2026-08-20T02:56:43.737Z"
-  },
-  {
-    "id": "38b83bcd08bb1cb91d9d9c5913da0554cc2806a4",
-    "title": "A revolutionary stem-cell therapy must proceed responsibly to achieve its full potential",
-    "url": "https://www.nature.com/articles/d41586-026-02524-2",
-    "source": "Nature News",
-    "publishedAt": "2026-08-18T00:00:00.000Z",
-    "topic": "Health",
-    "summary": "A new stem-cell therapy shows significant promise but requires responsible development to maximize its benefits. The article discusses the importance of careful oversight and governance as this treatment advances.",
-    "summaryIsFallback": false,
-    "coverageScore": 1,
-    "featured": false,
-    "addedAt": "2026-08-20T02:56:45.128Z"
   }
 ]
