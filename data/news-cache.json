@@ -1,5 +1,31 @@
 [
   {
+    "id": "75eaa16bf48eccb8d9873148d3c180f00811c5f8",
+    "title": "4 people on NASA's Crew-12 mission return to Earth after 8 months in space",
+    "url": "https://www.npr.org/2026/10/08/nx-s1-5992845/nasa-spacex-crew-12-international-space-station-iss-splashdown",
+    "source": "NPR Science",
+    "publishedAt": "2026-10-08T15:34:39.000Z",
+    "topic": "Space",
+    "summary": "A crew of four astronauts from NASA, the European Space Agency, and Russia returned to Earth after eight months aboard the International Space Station. During their mission, the crew conducted spacewalks, science experiments, and research operations.",
+    "summaryIsFallback": false,
+    "coverageScore": 1,
+    "featured": false,
+    "addedAt": "2026-10-08T16:15:50.379Z"
+  },
+  {
+    "id": "68265cfed99d7253aee3d15641bc58d1f761cc59",
+    "title": "Medical debt is crushing hospital patients in LA. Health officials may have a fix",
+    "url": "https://www.npr.org/2026/10/08/nx-s1-5991633/hospital-california-healthcare-medical-debt",
+    "source": "NPR Science",
+    "publishedAt": "2026-10-08T09:00:00.000Z",
+    "topic": "Health",
+    "summary": "Los Angeles County is implementing a new screening system to identify hospital patients eligible for financial aid, potentially preventing hundreds of thousands from receiving unaffordable medical bills. The policy addresses medical debt accumulation among hospital patients in the nation's most populous county.",
+    "summaryIsFallback": false,
+    "coverageScore": 1,
+    "featured": false,
+    "addedAt": "2026-10-08T16:15:51.362Z"
+  },
+  {
     "id": "6fe07fff7da8de48b6dd35a2e1cec2ba0f68ebe1",
     "title": "NASA releases trove of Moon data from historic Artemis II flight",
     "url": "https://www.nature.com/articles/d41586-026-03197-7",
