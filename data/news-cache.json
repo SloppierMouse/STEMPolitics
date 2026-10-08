@@ -1,5 +1,18 @@
 [
   {
+    "id": "6fe07fff7da8de48b6dd35a2e1cec2ba0f68ebe1",
+    "title": "NASA releases trove of Moon data from historic Artemis II flight",
+    "url": "https://www.nature.com/articles/d41586-026-03197-7",
+    "source": "Nature News",
+    "publishedAt": "2026-10-07T00:00:00.000Z",
+    "topic": "Space",
+    "summary": "NASA has released a comprehensive dataset from the Artemis II mission, which conducted a crewed lunar flyby. The data release makes information from this historic flight available to researchers and the scientific community.",
+    "summaryIsFallback": false,
+    "coverageScore": 1,
+    "featured": false,
+    "addedAt": "2026-10-08T01:39:42.753Z"
+  },
+  {
     "id": "6b394ae4ef5fbae102f3df4ce3cb95379a972ecc",
     "title": "How big tech is building a military–industrial complex in the age of AI",
     "url": "https://www.nature.com/articles/d41586-026-03134-8",
@@ -661,31 +674,5 @@
     "coverageScore": 1,
     "featured": false,
     "addedAt": "2026-08-25T10:38:20.293Z"
-  },
-  {
-    "id": "70b0da478a5ff752d13c252c06ffa76a98eb7a2f",
-    "title": "Frontier-technology markets are too narrow — here’s how to widen them",
-    "url": "https://www.nature.com/articles/d41586-026-02572-8",
-    "source": "Nature News",
-    "publishedAt": "2026-08-24T00:00:00.000Z",
-    "topic": "Tech Regulation",
-    "summary": "The article examines how frontier technology markets are currently constrained and proposes strategies to expand them. It addresses policy and structural factors that limit market participation and growth in emerging technology sectors.",
-    "summaryIsFallback": false,
-    "coverageScore": 1,
-    "featured": false,
-    "addedAt": "2026-08-24T10:41:45.333Z"
-  },
-  {
-    "id": "299ff59e7e82f76e5fb0e1159d1b33ab0b8b75e0",
-    "title": "Can AI ever be conscious? The question stems from a misconception",
-    "url": "https://www.nature.com/articles/d41586-026-02571-9",
-    "source": "Nature News",
-    "publishedAt": "2026-08-24T00:00:00.000Z",
-    "topic": "AI Policy",
-    "summary": "An article examines whether artificial intelligence can achieve consciousness, arguing that the question itself is based on a fundamental misconception. The piece addresses philosophical and scientific perspectives on AI consciousness as it relates to policy discussions around advanced AI systems.",
-    "summaryIsFallback": false,
-    "coverageScore": 1,
-    "featured": false,
-    "addedAt": "2026-08-24T11:33:53.777Z"
   }
 ]
