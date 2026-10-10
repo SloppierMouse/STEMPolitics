@@ -1,5 +1,18 @@
 [
   {
+    "id": "85eef88d46d84b76ea24f52ee30fbd98f4e22758",
+    "title": "Margaret Hamilton, whose software sent humans to the moon, dies at 90",
+    "url": "https://www.npr.org/2026/10/08/nx-s1-5994972/margaret-hamilton-obituary-software-engineer-apollo",
+    "source": "NPR Science",
+    "publishedAt": "2026-10-08T21:38:36.000Z",
+    "topic": "Science Funding",
+    "summary": "Margaret Hamilton, the pioneering software engineer who led the team that developed the Apollo missions' software, has died at age 90. Hamilton's work as a computer scientist was instrumental in enabling NASA's lunar landings during the space program's early era.",
+    "summaryIsFallback": false,
+    "coverageScore": 1,
+    "featured": false,
+    "addedAt": "2026-10-10T00:38:15.753Z"
+  },
+  {
     "id": "75eaa16bf48eccb8d9873148d3c180f00811c5f8",
     "title": "4 people on NASA's Crew-12 mission return to Earth after 8 months in space",
     "url": "https://www.npr.org/2026/10/08/nx-s1-5992845/nasa-spacex-crew-12-international-space-station-iss-splashdown",
@@ -648,18 +661,5 @@
     "coverageScore": 1,
     "featured": false,
     "addedAt": "2026-08-26T13:02:06.812Z"
-  },
-  {
-    "id": "0d0f5af7532788679c4cbf66025fdfd292a75e68",
-    "title": "Systems vaccinology and the architecture of human immunity",
-    "url": "https://www.nature.com/articles/s41586-026-10753-8",
-    "source": "Nature News",
-    "publishedAt": "2026-08-26T00:00:00.000Z",
-    "topic": "Health",
-    "summary": "This article explores systems vaccinology, a scientific approach to understanding how vaccines comprehensively interact with human immunity. The work analyzes the fundamental architectural principles that govern immune system responses to vaccination.",
-    "summaryIsFallback": false,
-    "coverageScore": 1,
-    "featured": false,
-    "addedAt": "2026-08-26T16:22:36.136Z"
   }
 ]
