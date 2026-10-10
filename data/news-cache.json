@@ -39,6 +39,19 @@
     "addedAt": "2026-10-08T16:15:51.362Z"
   },
   {
+    "id": "ec31147e30be11020e22634e33976e0785099707",
+    "title": "Women are talking about menopause — health systems must listen",
+    "url": "https://www.nature.com/articles/d41586-026-03218-5",
+    "source": "Nature News",
+    "publishedAt": "2026-10-08T00:00:00.000Z",
+    "topic": "Health",
+    "summary": "Women are increasingly discussing menopause openly, highlighting the need for health systems to better address this stage of life. The article argues that healthcare providers should improve their response to menopause-related concerns and patient experiences.",
+    "summaryIsFallback": false,
+    "coverageScore": 1,
+    "featured": false,
+    "addedAt": "2026-10-10T13:27:50.165Z"
+  },
+  {
     "id": "6fe07fff7da8de48b6dd35a2e1cec2ba0f68ebe1",
     "title": "NASA releases trove of Moon data from historic Artemis II flight",
     "url": "https://www.nature.com/articles/d41586-026-03197-7",
@@ -648,18 +661,5 @@
     "coverageScore": 1,
     "featured": false,
     "addedAt": "2026-08-27T19:42:35.131Z"
-  },
-  {
-    "id": "8b8af07cc7a49920a71b44414d674ad369d49ed9",
-    "title": "Microbes might get freeze-dried on the moon’s south pole",
-    "url": "https://www.sciencenews.org/article/microbes-freeze-dried-moons-south-pole",
-    "source": "Science News",
-    "publishedAt": "2026-08-26T12:00:00.000Z",
-    "topic": "Space",
-    "summary": "NASA research has identified microbes that could potentially survive on the moon's south pole during Artemis IV missions, which will return humans to the lunar surface for the first time in 50 years. The study examines how freeze-dried microbes might endure the harsh conditions of the lunar environment.",
-    "summaryIsFallback": false,
-    "coverageScore": 1,
-    "featured": false,
-    "addedAt": "2026-08-26T13:02:06.812Z"
   }
 ]
