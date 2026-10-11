@@ -622,18 +622,5 @@
     "coverageScore": 1,
     "featured": false,
     "addedAt": "2026-08-28T17:13:59.180Z"
-  },
-  {
-    "id": "82d3d4dfd68fc6fc6bb4b526eadf5879a838eeaa",
-    "title": "A space telescope was falling from orbit. Its rescue mission fell apart too",
-    "url": "https://www.sciencenews.org/article/swift-space-telescope-failed-rescue",
-    "source": "Science News",
-    "publishedAt": "2026-08-27T14:00:00.000Z",
-    "topic": "Space",
-    "summary": "NASA's attempt to rescue the Swift space telescope, which was falling from orbit, ultimately failed. The incident has exposed challenges in the emerging field of satellite servicing technology and operations.",
-    "summaryIsFallback": false,
-    "coverageScore": 1,
-    "featured": false,
-    "addedAt": "2026-08-27T19:42:39.820Z"
   }
 ]
