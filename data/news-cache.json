@@ -1,5 +1,18 @@
 [
   {
+    "id": "1ed5c459d565d36b8c4d09121a93618274c9593f",
+    "title": "In the AI era, coding means thinking like a systems architect",
+    "url": "https://www.nature.com/articles/d41586-026-02715-x",
+    "source": "Nature News",
+    "publishedAt": "2026-10-13T00:00:00.000Z",
+    "topic": "AI Policy",
+    "summary": "As artificial intelligence becomes more prevalent, the role of coding is evolving to require systems-level thinking and architectural design rather than just implementation. This shift reflects changing skill demands in the AI era, where developers must understand broader system interactions and design principles.",
+    "summaryIsFallback": false,
+    "coverageScore": 1,
+    "featured": false,
+    "addedAt": "2026-10-14T01:01:12.964Z"
+  },
+  {
     "id": "994c2ea46e79d2c4f54244edf024d7c5ed1bb4aa",
     "title": "When climate change brings the heat, what happens to a mighty redwood?",
     "url": "https://www.sciencenews.org/article/climate-change-heat-redwood-temperature",
@@ -570,31 +583,5 @@
     "coverageScore": 1,
     "featured": false,
     "addedAt": "2026-08-30T11:38:18.955Z"
-  },
-  {
-    "id": "475dd4d330e1dcc6081e697553361c3079dedd31",
-    "title": "Lift-off! NASA launches Roman Space Telescope to tackle dark-energy mysteries",
-    "url": "https://www.nature.com/articles/d41586-026-02727-7",
-    "source": "Nature News",
-    "publishedAt": "2026-08-30T00:00:00.000Z",
-    "topic": "Space",
-    "summary": "NASA has launched the Roman Space Telescope, a major observatory designed to investigate dark energy and advance our understanding of the universe's expansion. The mission represents a significant investment in space-based astronomical research and fundamental physics.",
-    "summaryIsFallback": false,
-    "coverageScore": 1,
-    "featured": false,
-    "addedAt": "2026-08-30T16:25:09.375Z"
-  },
-  {
-    "id": "fb1610e2789f15ec0992790eae2136d94b6b19e7",
-    "title": "Trump cuts to science advisory boards have long-lasting consequences, researchers say",
-    "url": "https://www.npr.org/2026/08/29/nx-s1-5945029/trump-cut-science-advisory-committees-consequences",
-    "source": "NPR Science",
-    "publishedAt": "2026-08-29T10:00:00.000Z",
-    "topic": "Science Funding",
-    "summary": "President Trump has dismissed hundreds of federal science advisory board members since taking office. Researchers warn that removing these top experts will have long-term negative consequences for science policy and research guidance.",
-    "summaryIsFallback": false,
-    "coverageScore": 1,
-    "featured": false,
-    "addedAt": "2026-08-29T14:17:34.017Z"
   }
 ]
