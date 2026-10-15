@@ -1,5 +1,18 @@
 [
   {
+    "id": "20937e4e023375dc9800e5aea48384d5a61f6839",
+    "title": "Brain implants are helping people who’ve lost their voice",
+    "url": "https://www.sciencenews.org/article/brain-implants-restore-voices-injuries",
+    "source": "Science News",
+    "publishedAt": "2026-10-15T13:00:00.000Z",
+    "topic": "Health",
+    "summary": "Brain implant technology is being developed to restore communication for patients with conditions like ALS, Parkinson's disease, and brain injuries who have lost the ability to speak. The advancement represents a potential therapeutic application of neural interface technology for patients with severe neurological conditions.",
+    "summaryIsFallback": false,
+    "coverageScore": 1,
+    "featured": false,
+    "addedAt": "2026-10-15T13:13:22.937Z"
+  },
+  {
     "id": "1ed5c459d565d36b8c4d09121a93618274c9593f",
     "title": "In the AI era, coding means thinking like a systems architect",
     "url": "https://www.nature.com/articles/d41586-026-02715-x",
