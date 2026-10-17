@@ -544,31 +544,5 @@
     "coverageScore": 1,
     "featured": false,
     "addedAt": "2026-09-08T17:10:21.874Z"
-  },
-  {
-    "id": "19f385c8d3dddccde268d6c86d4e597b08cb010e",
-    "title": "UN finally admits global warming will shoot past 1.5 ºC climate limit",
-    "url": "https://www.nature.com/articles/d41586-026-02753-5",
-    "source": "Nature News",
-    "publishedAt": "2026-09-02T00:00:00.000Z",
-    "topic": "Climate",
-    "summary": "The UN has officially acknowledged that global warming will exceed the 1.5°C target established in the Paris Agreement. This admission reflects updated climate projections and represents a significant policy recognition regarding the feasibility of previously set climate goals.",
-    "summaryIsFallback": false,
-    "coverageScore": 1,
-    "featured": false,
-    "addedAt": "2026-09-02T08:39:20.548Z"
-  },
-  {
-    "id": "cb1c69287c8e66036a2e7deac925037a0fc2ecb3",
-    "title": "NASA’s Roman telescope holds promise far beyond mapping the invisible Universe",
-    "url": "https://www.nature.com/articles/d41586-026-02764-2",
-    "source": "Nature News",
-    "publishedAt": "2026-09-02T00:00:00.000Z",
-    "topic": "Space",
-    "summary": "NASA's Roman Space Telescope, designed primarily for studying dark matter and dark energy, has potential applications extending beyond its core mission objectives. The instrument's capabilities may enable discoveries across multiple areas of astronomical research beyond its initial scope.",
-    "summaryIsFallback": false,
-    "coverageScore": 1,
-    "featured": false,
-    "addedAt": "2026-09-02T23:11:00.754Z"
   }
 ]
