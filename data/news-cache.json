@@ -26,6 +26,19 @@
     "addedAt": "2026-10-19T20:28:15.663Z"
   },
   {
+    "id": "c795fed3caee9c2897164ac8ede9ea031fcdb3c7",
+    "title": "US government probe into postdoc visas worries scientists",
+    "url": "https://www.nature.com/articles/d41586-026-03345-z",
+    "source": "Nature News",
+    "publishedAt": "2026-10-19T00:00:00.000Z",
+    "topic": "Science Funding",
+    "summary": "The US government is conducting a probe into postdoctoral visas, raising concerns within the scientific community about potential impacts on research workforce recruitment. The investigation could affect how foreign scientists access postdoctoral positions at US institutions.",
+    "summaryIsFallback": false,
+    "coverageScore": 1,
+    "featured": false,
+    "addedAt": "2026-10-20T00:10:29.719Z"
+  },
+  {
     "id": "20937e4e023375dc9800e5aea48384d5a61f6839",
     "title": "Brain implants are helping people who’ve lost their voice",
     "url": "https://www.sciencenews.org/article/brain-implants-restore-voices-injuries",
