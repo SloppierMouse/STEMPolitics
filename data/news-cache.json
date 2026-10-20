@@ -1,5 +1,18 @@
 [
   {
+    "id": "6a056bd0d3191144d4a59a76fd7d6c9619a0f1db",
+    "title": "AI can give you your voice back",
+    "url": "https://www.sciencenews.org/article/ai-voice-restore-identity-the-deep-end",
+    "source": "Science News",
+    "publishedAt": "2026-10-20T11:00:00.000Z",
+    "topic": "AI Policy",
+    "summary": "AI technology is enabling people who have lost the ability to speak to regain communication through synthesized voices. The development raises questions about voice synthesis applications and their implications for accessibility and technology policy.",
+    "summaryIsFallback": false,
+    "coverageScore": 1,
+    "featured": false,
+    "addedAt": "2026-10-20T16:38:04.941Z"
+  },
+  {
     "id": "18593a3181ac6ad4ab95ba202e24e8d45639a3ae",
     "title": "Climate scientists face deluge of public-records requests about fossil-fuel studies",
     "url": "https://www.nature.com/articles/d41586-026-03275-w",
