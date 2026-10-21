@@ -1,5 +1,18 @@
 [
   {
+    "id": "cd2a9c0e8b0e567ea881afae58112714c8a4ed1f",
+    "title": "How tech billionaires are disrupting biomedical science",
+    "url": "https://www.nature.com/articles/d41586-026-03311-9",
+    "source": "Nature News",
+    "publishedAt": "2026-10-21T00:00:00.000Z",
+    "topic": "Science Funding",
+    "summary": "Technology billionaires are increasingly influencing biomedical research through funding and direct involvement in scientific initiatives. The article examines how this influx of private capital and leadership from tech entrepreneurs is reshaping the landscape of medical science development.",
+    "summaryIsFallback": false,
+    "coverageScore": 1,
+    "featured": false,
+    "addedAt": "2026-10-21T14:59:03.351Z"
+  },
+  {
     "id": "6a056bd0d3191144d4a59a76fd7d6c9619a0f1db",
     "title": "AI can give you your voice back",
     "url": "https://www.sciencenews.org/article/ai-voice-restore-identity-the-deep-end",
