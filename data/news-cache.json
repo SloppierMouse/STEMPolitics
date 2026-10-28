@@ -1,5 +1,31 @@
 [
   {
+    "id": "0ea79c5107cf6717c16cb3858168d8c0307e2bd8",
+    "title": "Revered NASA spacecraft is about to perish in flames — astronomers are mourning",
+    "url": "https://www.nature.com/articles/d41586-026-03461-w",
+    "source": "Nature News",
+    "publishedAt": "2026-10-27T00:00:00.000Z",
+    "topic": "Space",
+    "summary": "A NASA spacecraft is approaching the end of its operational life and will be destroyed upon re-entry into Earth's atmosphere. The impending loss of the vessel has prompted notable responses from the astronomical community.",
+    "summaryIsFallback": false,
+    "coverageScore": 1,
+    "featured": false,
+    "addedAt": "2026-10-28T04:58:11.246Z"
+  },
+  {
+    "id": "91187496b156f291b5e0956189c0365cb7c33340",
+    "title": "Global climate body fights for survival: why the IPCC must be saved",
+    "url": "https://www.nature.com/articles/d41586-026-03403-6",
+    "source": "Nature News",
+    "publishedAt": "2026-10-27T00:00:00.000Z",
+    "topic": "Climate",
+    "summary": "The Intergovernmental Panel on Climate Change (IPCC) faces existential challenges that threaten its continued operation. The article argues for the preservation of this key scientific body that assesses climate research and informs international climate policy.",
+    "summaryIsFallback": false,
+    "coverageScore": 1,
+    "featured": false,
+    "addedAt": "2026-10-28T04:58:12.435Z"
+  },
+  {
     "id": "cd2a9c0e8b0e567ea881afae58112714c8a4ed1f",
     "title": "How tech billionaires are disrupting biomedical science",
     "url": "https://www.nature.com/articles/d41586-026-03311-9",
