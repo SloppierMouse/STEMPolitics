@@ -570,18 +570,5 @@
     "coverageScore": 1,
     "featured": false,
     "addedAt": "2026-09-15T18:49:10.413Z"
-  },
-  {
-    "id": "9f3b062574c57b2fd1c25c2986eedc7f62f78bdb",
-    "title": "Trump's EPA repeals pollution limits on fossil fuel power plants",
-    "url": "https://www.npr.org/2026/09/14/nx-s1-5968785/epa-repeals-pollution-limits-on-power-plants",
-    "source": "NPR Science",
-    "publishedAt": "2026-09-14T20:34:28.000Z",
-    "topic": "Climate",
-    "summary": "The Trump administration has repealed pollution limits on greenhouse gas emissions from fossil fuel power plants. Environmental groups warn the action will negatively affect both climate outcomes and public health.",
-    "summaryIsFallback": false,
-    "coverageScore": 1,
-    "featured": false,
-    "addedAt": "2026-09-14T23:46:34.780Z"
   }
 ]
