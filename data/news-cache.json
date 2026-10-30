@@ -1,5 +1,31 @@
 [
   {
+    "id": "71e45259d30fca097dfdecd9a6531acfa3ad06ef",
+    "title": "NASA’s Swift telescope will face a fiery demise after a failed rescue",
+    "url": "https://www.sciencenews.org/article/nasa-swift-telescope-gamma-ray-burst",
+    "source": "Science News",
+    "publishedAt": "2026-10-30T15:00:00.000Z",
+    "topic": "Space",
+    "summary": "NASA's Swift telescope, designed to study powerful cosmic outbursts and responsible for numerous scientific discoveries, will undergo an uncontrolled reentry and burn up in Earth's atmosphere following a failed rescue attempt. The observatory's decommissioning concludes decades of space-based observations.",
+    "summaryIsFallback": false,
+    "coverageScore": 1,
+    "featured": false,
+    "addedAt": "2026-10-30T22:52:41.155Z"
+  },
+  {
+    "id": "1772f8d1ad1a6769a6a81d729e60479bc8111c2f",
+    "title": "I built the UK government’s metascience unit — here’s what countries need to know",
+    "url": "https://www.nature.com/articles/d41586-026-03502-4",
+    "source": "Nature News",
+    "publishedAt": "2026-10-30T00:00:00.000Z",
+    "topic": "Science Funding",
+    "summary": "A leader who built the UK government's metascience unit shares insights on what countries should know about establishing similar initiatives. The piece discusses the structure and purpose of metascience units, which focus on improving how science policy is developed and evaluated.",
+    "summaryIsFallback": false,
+    "coverageScore": 1,
+    "featured": false,
+    "addedAt": "2026-10-30T22:52:35.671Z"
+  },
+  {
     "id": "15eede545509d0da8e0c0529bacec7d0e7433616",
     "title": "Genetic variants that alter gene regulation in specific cell types are closely tied to disease",
     "url": "https://www.nature.com/articles/d41586-026-03067-2",
