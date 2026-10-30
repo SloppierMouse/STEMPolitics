@@ -544,18 +544,5 @@
     "coverageScore": 1,
     "featured": false,
     "addedAt": "2026-09-16T18:02:37.114Z"
-  },
-  {
-    "id": "ecbd0a3df21177e8d7e2ffced82344c7a83002f8",
-    "title": "NASA rushed engineers out of their labs. They say it risks future space missions",
-    "url": "https://www.npr.org/2026/09/15/nx-s1-5964919/nasa-employee-relocations-equipment-impacts-missions",
-    "source": "NPR Science",
-    "publishedAt": "2026-09-15T09:00:00.000Z",
-    "topic": "Space",
-    "summary": "NASA has conducted abrupt relocations of engineers and staff from their laboratories over recent months, according to employee reports. The moves have resulted in the loss of vital equipment and personnel needed for developing sophisticated spacecraft, raising concerns about the impact on future mission capabilities.",
-    "summaryIsFallback": false,
-    "coverageScore": 1,
-    "featured": false,
-    "addedAt": "2026-09-15T18:49:08.913Z"
   }
 ]
