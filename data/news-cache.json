@@ -557,18 +557,5 @@
     "coverageScore": 1,
     "featured": false,
     "addedAt": "2026-09-16T13:18:12.630Z"
-  },
-  {
-    "id": "cb16989f9cad5a7498a1cb7308af4d6150d7d501",
-    "title": "Will wearable technologies transform clinical trials?",
-    "url": "https://www.nature.com/articles/d41586-026-02844-3",
-    "source": "Nature News",
-    "publishedAt": "2026-09-16T00:00:00.000Z",
-    "topic": "Health",
-    "summary": "Wearable technologies are being explored for their potential to improve clinical trial design and data collection. The article examines how these devices could transform how medical research is conducted and monitored.",
-    "summaryIsFallback": false,
-    "coverageScore": 1,
-    "featured": false,
-    "addedAt": "2026-09-16T18:02:37.114Z"
   }
 ]
