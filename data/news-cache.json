@@ -375,18 +375,5 @@
     "coverageScore": 1,
     "featured": false,
     "addedAt": "2026-09-25T18:23:17.750Z"
-  },
-  {
-    "id": "5fa1927f143dc52b8f422a04ae91cb446d2c06b5",
-    "title": "Under Trump, NIH funding disruptions have evolved. Here's what the numbers show",
-    "url": "https://www.npr.org/2026/09/24/nx-s1-5931971/trump-nih-science-funding-disruptions-charts",
-    "source": "NPR Science",
-    "publishedAt": "2026-09-24T09:00:00.000Z",
-    "topic": "Science Funding",
-    "summary": "The Trump administration has implemented NIH funding disruptions that have resulted in lab closures and job losses across the U.S. biomedical research sector. Data visualizations in the article quantify the specific impacts of these funding changes on American science.",
-    "summaryIsFallback": false,
-    "coverageScore": 1,
-    "featured": false,
-    "addedAt": "2026-09-24T09:47:31.946Z"
   }
 ]
