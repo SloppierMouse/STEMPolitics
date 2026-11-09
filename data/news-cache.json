@@ -13,6 +13,32 @@
     "addedAt": "2026-11-09T07:48:13.347Z"
   },
   {
+    "id": "24dac49a878ce2ab565b79746fab0634fe33b993",
+    "title": "He spent a year on ‘Mars’: NASA science officer emerges from mock mission",
+    "url": "https://www.nature.com/articles/d41586-026-03588-w",
+    "source": "Nature News",
+    "publishedAt": "2026-11-09T00:00:00.000Z",
+    "topic": "Space",
+    "summary": "A NASA science officer has completed a year-long simulated Mars mission, contributing to NASA's research on long-duration space exploration. The mock mission provides data on the psychological and physiological effects of extended isolation relevant to future crewed Mars expeditions.",
+    "summaryIsFallback": false,
+    "coverageScore": 1,
+    "featured": false,
+    "addedAt": "2026-11-09T18:34:48.521Z"
+  },
+  {
+    "id": "fdd22bb9def69e269e6f8325d39afa98036ff585",
+    "title": "The super El Niño is more than a climate shock – it’s a health one, too",
+    "url": "https://www.nature.com/articles/d41586-026-03628-5",
+    "source": "Nature News",
+    "publishedAt": "2026-11-09T00:00:00.000Z",
+    "topic": "Climate",
+    "summary": "A strong El Niño event is creating significant health impacts beyond typical climate disruptions. The article examines the intersection of extreme weather phenomena and public health consequences.",
+    "summaryIsFallback": false,
+    "coverageScore": 1,
+    "featured": false,
+    "addedAt": "2026-11-09T18:34:50.593Z"
+  },
+  {
     "id": "9fc4fd8569efc8a43822a64be6f18c4aaa96554d",
     "title": "NASA is looking for astronauts to live and work on the Moon",
     "url": "https://www.npr.org/2026/11/08/nx-s1-6034002/nasa-astronaut-class-applications-2026",
