@@ -1,5 +1,18 @@
 [
   {
+    "id": "8d4008ea82bcf31337563d51d443468fbdb3b63c",
+    "title": "COP31 kicks off as planet faces imminent overshoot of 1.5°C climate target",
+    "url": "https://www.nature.com/articles/d41586-026-03631-w",
+    "source": "Nature News",
+    "publishedAt": "2026-11-09T00:00:00.000Z",
+    "topic": "Climate",
+    "summary": "COP31 has begun as scientists warn that Earth is approaching an overshoot of the 1.5°C warming threshold established in the Paris Agreement. The conference represents a critical moment for international climate negotiations as nations assess progress on emissions reduction commitments.",
+    "summaryIsFallback": false,
+    "coverageScore": 1,
+    "featured": false,
+    "addedAt": "2026-11-09T07:48:13.347Z"
+  },
+  {
     "id": "9fc4fd8569efc8a43822a64be6f18c4aaa96554d",
     "title": "NASA is looking for astronauts to live and work on the Moon",
     "url": "https://www.npr.org/2026/11/08/nx-s1-6034002/nasa-astronaut-class-applications-2026",
