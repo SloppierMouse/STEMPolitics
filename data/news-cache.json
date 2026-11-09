@@ -1,5 +1,18 @@
 [
   {
+    "id": "9fc4fd8569efc8a43822a64be6f18c4aaa96554d",
+    "title": "NASA is looking for astronauts to live and work on the Moon",
+    "url": "https://www.npr.org/2026/11/08/nx-s1-6034002/nasa-astronaut-class-applications-2026",
+    "source": "NPR Science",
+    "publishedAt": "2026-11-08T23:36:47.000Z",
+    "topic": "Space",
+    "summary": "NASA is recruiting astronauts for lunar missions as part of its effort to return humans to the Moon after a 50+ year absence. The agency is seeking qualified personnel to live and work on the lunar surface as part of its renewed Moon exploration program.",
+    "summaryIsFallback": false,
+    "coverageScore": 1,
+    "featured": false,
+    "addedAt": "2026-11-09T00:47:42.175Z"
+  },
+  {
     "id": "834947044af068d01daeaa743bc3bd23b7855281",
     "title": "Clearing the way for a transformative stem-cell treatment for Parkinson’s disease",
     "url": "https://www.nature.com/articles/d41586-026-03167-z",
@@ -362,18 +375,5 @@
     "coverageScore": 1,
     "featured": false,
     "addedAt": "2026-09-28T21:44:25.014Z"
-  },
-  {
-    "id": "80c8bec30e8c904d74158c93ad083899212b86a4",
-    "title": "Nepal’s floods expose issues with climate-disaster funding — firmer policies are needed fast",
-    "url": "https://www.nature.com/articles/d41586-026-03016-z",
-    "source": "Nature News",
-    "publishedAt": "2026-09-25T00:00:00.000Z",
-    "topic": "Climate",
-    "summary": "Recent flooding in Nepal has revealed gaps in how climate disaster funding is allocated and managed. The article argues that stronger policy frameworks are needed to improve disaster financing mechanisms.",
-    "summaryIsFallback": false,
-    "coverageScore": 1,
-    "featured": false,
-    "addedAt": "2026-09-25T18:23:17.750Z"
   }
 ]
