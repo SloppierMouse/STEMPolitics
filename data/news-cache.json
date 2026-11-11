@@ -13,6 +13,45 @@
     "addedAt": "2026-11-11T13:53:47.519Z"
   },
   {
+    "id": "0a900a4c419f876d09edb0a66027cd35a0e153aa",
+    "title": "Anthropic bought a one-person, AI-powered biotech: is this drug discovery’s future?",
+    "url": "https://www.nature.com/articles/d41586-026-03640-9",
+    "source": "Nature News",
+    "publishedAt": "2026-11-11T00:00:00.000Z",
+    "topic": "AI Policy",
+    "summary": "Anthropic acquired Isomorphic Labs, a single-researcher AI-powered biotech company, raising questions about the future of drug discovery automation. The acquisition highlights how large AI companies are investing in specialized applications of their technology for pharmaceutical development.",
+    "summaryIsFallback": false,
+    "coverageScore": 1,
+    "featured": false,
+    "addedAt": "2026-11-11T21:11:00.221Z"
+  },
+  {
+    "id": "522a441fb383eddc5bf3d4846d64a12dbbeb8c93",
+    "title": "AI’s energy paradox: will the AI boom strain energy systems or be the source of solutions?",
+    "url": "https://www.nature.com/articles/d41586-026-03412-5",
+    "source": "Nature News",
+    "publishedAt": "2026-11-11T00:00:00.000Z",
+    "topic": "AI Policy",
+    "summary": "The article explores the contradictory impacts of AI growth on energy systems, weighing concerns about increased power consumption against potential benefits from AI-driven energy optimization. This energy paradox raises important questions for policymakers considering how to manage AI's expansion while meeting climate and infrastructure goals.",
+    "summaryIsFallback": false,
+    "coverageScore": 1,
+    "featured": false,
+    "addedAt": "2026-11-11T21:11:02.326Z"
+  },
+  {
+    "id": "305bc580ec9bd3d7d4ca98d1c90133599008a53e",
+    "title": "Can green technologies deliver energy security in an unstable world?",
+    "url": "https://www.nature.com/articles/d41586-026-03409-0",
+    "source": "Nature News",
+    "publishedAt": "2026-11-11T00:00:00.000Z",
+    "topic": "Climate",
+    "summary": "The article examines whether renewable and green energy technologies can provide reliable energy security amid global instability. It explores the potential of clean energy solutions to reduce dependence on traditional energy sources while addressing geopolitical energy concerns.",
+    "summaryIsFallback": false,
+    "coverageScore": 1,
+    "featured": false,
+    "addedAt": "2026-11-11T21:11:04.933Z"
+  },
+  {
     "id": "49d1fed6abca6af70e53293e1414ab7f7abdab00",
     "title": "Science to restore speech is moving fast. Here’s what’s next",
     "url": "https://www.sciencenews.org/article/talk-less-lose-voice-deep-end-podcast",
