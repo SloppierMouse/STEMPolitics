@@ -1,5 +1,18 @@
 [
   {
+    "id": "7acf8eacd0f5317c1ab20c4c61d78f31231c6605",
+    "title": "SpaceX's giant rocket may leave NASA in the dust",
+    "url": "https://www.npr.org/2026/11/13/nx-s1-6039312/spacex-nasa-starship-iss-dragon-falcon-musk",
+    "source": "NPR Science",
+    "publishedAt": "2026-11-13T10:00:00.000Z",
+    "topic": "Space",
+    "summary": "SpaceX is developing a large rocket that could outpace NASA's capabilities as the company prepares to retire NASA's primary vehicle for International Space Station access. The development represents a significant shift in how the U.S. may approach crewed space missions and station resupply operations.",
+    "summaryIsFallback": false,
+    "coverageScore": 1,
+    "featured": false,
+    "addedAt": "2026-11-13T16:01:09.974Z"
+  },
+  {
     "id": "f11cf63f562a3a626d674deee9d28a33cf6778a8",
     "title": "Biotech innovations are an opportunity to limit climate change",
     "url": "https://www.nature.com/articles/d41586-026-03621-y",
@@ -479,18 +492,5 @@
     "coverageScore": 1,
     "featured": false,
     "addedAt": "2026-10-01T16:12:43.912Z"
-  },
-  {
-    "id": "81e251be251b5c3895115b2c3274517bb4c9cd62",
-    "title": "In the wake of the flood, could Nepal avert the next disaster?",
-    "url": "https://www.sciencenews.org/article/flood-nepal-prepare-disaster-climate",
-    "source": "Science News",
-    "publishedAt": "2026-09-29T13:00:00.000Z",
-    "topic": "Science Funding",
-    "summary": "Nepal's recent debris flow disaster exposed significant gaps in early warning systems and community preparedness that contributed to high casualties. The article examines whether improved disaster prediction and response infrastructure could mitigate future natural hazards in the region.",
-    "summaryIsFallback": false,
-    "coverageScore": 1,
-    "featured": false,
-    "addedAt": "2026-09-29T20:35:50.553Z"
   }
 ]
