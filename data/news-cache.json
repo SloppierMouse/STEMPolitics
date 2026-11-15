@@ -492,31 +492,5 @@
     "coverageScore": 1,
     "featured": false,
     "addedAt": "2026-10-05T15:44:54.466Z"
-  },
-  {
-    "id": "5c2ae805442675d2f182d1b64b55f843cb0ddbe0",
-    "title": "'It's a nightmare.' Former refugee, professor on Trump's new Medicaid policy",
-    "url": "https://www.npr.org/2026/10/01/nx-s1-5987948/trump-medicaid-health-insurance-disability-refugee",
-    "source": "NPR Science",
-    "publishedAt": "2026-10-01T19:49:45.000Z",
-    "topic": "Health",
-    "summary": "A Republican budget bill passed last year will result in many legally present immigrants losing Medicaid coverage starting October 1. The policy change has drawn criticism from a former refugee and professor quoted in the article.",
-    "summaryIsFallback": false,
-    "coverageScore": 1,
-    "featured": false,
-    "addedAt": "2026-10-02T01:28:08.836Z"
-  },
-  {
-    "id": "9973b47d72a76e5f1b46c60e025c80e5dfa30ae1",
-    "title": "New space station crew launches from Florida on SpaceX's Crew Dragon capsule",
-    "url": "https://www.npr.org/2026/10/01/nx-s1-5987698/nasa-crew-13-spacex-international-space-station-iss",
-    "source": "NPR Science",
-    "publishedAt": "2026-10-01T15:21:33.000Z",
-    "topic": "Space",
-    "summary": "A four-person crew consisting of two NASA astronauts, one Canadian astronaut, and one Russian cosmonaut launched from Cape Canaveral Space Force Station aboard SpaceX's Crew Dragon capsule. The crew is headed to the International Space Station.",
-    "summaryIsFallback": false,
-    "coverageScore": 1,
-    "featured": false,
-    "addedAt": "2026-10-01T16:12:43.912Z"
   }
 ]
