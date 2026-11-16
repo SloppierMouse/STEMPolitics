@@ -1,5 +1,18 @@
 [
   {
+    "id": "093f454fccf43f92551f88bc062b90db08994f7f",
+    "title": "<b>The climate is in </b><b>crisis</b><b> — here’s four things we can do</b>",
+    "url": "https://www.nature.com/articles/d41586-026-03760-2",
+    "source": "Nature News",
+    "publishedAt": "2026-11-16T00:00:00.000Z",
+    "topic": "Climate",
+    "summary": "The article identifies climate crisis as an urgent issue and outlines four actionable solutions. The specific policy proposals or interventions are not detailed in the provided description.",
+    "summaryIsFallback": false,
+    "coverageScore": 1,
+    "featured": false,
+    "addedAt": "2026-11-16T20:09:30.048Z"
+  },
+  {
     "id": "daa3bc434878d859250d975a2403b6415c7c13c1",
     "title": "A new policy could help solve the U.S. organ shortage. Critics say it's unethical",
     "url": "https://www.npr.org/2026/11/14/nx-s1-6032604/organ-transplant-donor-dead-ethics",
@@ -37,6 +50,19 @@
     "coverageScore": 1,
     "featured": false,
     "addedAt": "2026-11-13T21:56:48.420Z"
+  },
+  {
+    "id": "2d24963d806b4a3ecdabeb1e097446f2ec11fabe",
+    "title": "Daily briefing: Are one-person firms the future of biotech?",
+    "url": "https://www.nature.com/articles/d41586-026-03684-x",
+    "source": "Nature News",
+    "publishedAt": "2026-11-12T00:00:00.000Z",
+    "topic": "Science Funding",
+    "summary": "The article examines whether single-founder biotechnology companies represent an emerging business model in the biotech industry. The piece explores the viability and implications of one-person firms as an alternative to traditional biotech organizational structures.",
+    "summaryIsFallback": false,
+    "coverageScore": 1,
+    "featured": false,
+    "addedAt": "2026-11-16T20:09:31.195Z"
   },
   {
     "id": "f11cf63f562a3a626d674deee9d28a33cf6778a8",
