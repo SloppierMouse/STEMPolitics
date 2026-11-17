@@ -1,5 +1,18 @@
 [
   {
+    "id": "ca074d25f7f130d2a21507272ad5eb7544f610be",
+    "title": "New US Congress should ‘reimagine’ science — not just return to the past",
+    "url": "https://www.nature.com/articles/d41586-026-03709-5",
+    "source": "Nature News",
+    "publishedAt": "2026-11-17T00:00:00.000Z",
+    "topic": "Science Funding",
+    "summary": "An opinion piece argues that the incoming US Congress should take a forward-looking approach to science policy rather than simply restoring previous funding or programs. The piece calls for a reimagining of how the country supports and prioritizes scientific research and innovation.",
+    "summaryIsFallback": false,
+    "coverageScore": 1,
+    "featured": false,
+    "addedAt": "2026-11-17T21:41:03.425Z"
+  },
+  {
     "id": "093f454fccf43f92551f88bc062b90db08994f7f",
     "title": "<b>The climate is in </b><b>crisis</b><b> — here’s four things we can do</b>",
     "url": "https://www.nature.com/articles/d41586-026-03760-2",
@@ -11,6 +24,32 @@
     "coverageScore": 1,
     "featured": false,
     "addedAt": "2026-11-16T20:09:30.048Z"
+  },
+  {
+    "id": "63294a362f280e17b766f585e9efd70402754e04",
+    "title": "Can AI actually help the climate? Nations want to harness the technology to cut emissions",
+    "url": "https://www.nature.com/articles/d41586-026-03763-z",
+    "source": "Nature News",
+    "publishedAt": "2026-11-16T00:00:00.000Z",
+    "topic": "AI Policy",
+    "summary": "Nations are exploring how artificial intelligence can be leveraged as a tool to reduce greenhouse gas emissions and address climate change. The article examines the potential of AI technologies in climate mitigation strategies and international efforts to deploy these solutions.",
+    "summaryIsFallback": false,
+    "coverageScore": 1,
+    "featured": false,
+    "addedAt": "2026-11-17T21:41:05.636Z"
+  },
+  {
+    "id": "a379a7bfde9fe2e6ae51038bee7c94160d72e73a",
+    "title": "Daily briefing: A worrier’s guide to climate hope",
+    "url": "https://www.nature.com/articles/d41586-026-03769-7",
+    "source": "Nature News",
+    "publishedAt": "2026-11-16T00:00:00.000Z",
+    "topic": "Climate",
+    "summary": "This article addresses climate change concerns and explores sources of optimism for those worried about environmental outcomes. The piece appears to balance climate anxieties with evidence-based reasons for hope regarding climate action and solutions.",
+    "summaryIsFallback": false,
+    "coverageScore": 1,
+    "featured": false,
+    "addedAt": "2026-11-17T21:41:06.660Z"
   },
   {
     "id": "daa3bc434878d859250d975a2403b6415c7c13c1",
