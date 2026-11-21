@@ -13,6 +13,19 @@
     "addedAt": "2026-11-20T19:50:24.399Z"
   },
   {
+    "id": "1ebefde52726e01f1129d2ea877755321ebeeefb",
+    "title": "Net zero emissions won’t reverse climate change — some nations look to ‘net negative’",
+    "url": "https://www.nature.com/articles/d41586-026-03789-3",
+    "source": "Nature News",
+    "publishedAt": "2026-11-20T00:00:00.000Z",
+    "topic": "Climate",
+    "summary": "Achieving net zero emissions alone will not reverse existing climate change, prompting some nations to pursue 'net negative' emissions targets that remove more greenhouse gases from the atmosphere than they produce. This approach represents an escalation beyond traditional net zero commitments in climate policy strategy.",
+    "summaryIsFallback": false,
+    "coverageScore": 1,
+    "featured": false,
+    "addedAt": "2026-11-21T01:14:18.056Z"
+  },
+  {
     "id": "f279c822a7460c350342cec44f748af61b9edea1",
     "title": "Rethinking corporate climate targets for real-world transitions",
     "url": "https://www.nature.com/articles/s41586-026-11100-7",
@@ -557,18 +570,5 @@
     "coverageScore": 1,
     "featured": false,
     "addedAt": "2026-10-10T13:27:50.165Z"
-  },
-  {
-    "id": "6fe07fff7da8de48b6dd35a2e1cec2ba0f68ebe1",
-    "title": "NASA releases trove of Moon data from historic Artemis II flight",
-    "url": "https://www.nature.com/articles/d41586-026-03197-7",
-    "source": "Nature News",
-    "publishedAt": "2026-10-07T00:00:00.000Z",
-    "topic": "Space",
-    "summary": "NASA has released a comprehensive dataset from the Artemis II mission, which conducted a crewed lunar flyby. The data release makes information from this historic flight available to researchers and the scientific community.",
-    "summaryIsFallback": false,
-    "coverageScore": 1,
-    "featured": false,
-    "addedAt": "2026-10-08T01:39:42.753Z"
   }
 ]
