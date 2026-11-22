@@ -91,6 +91,19 @@
     "addedAt": "2026-11-17T21:41:06.660Z"
   },
   {
+    "id": "d408f8b23f245b38ad8a9358de01547f5bae558c",
+    "title": "Far from home, Voyager 1 will soon be a 'light-day' from Earth",
+    "url": "https://www.npr.org/2026/11/15/nx-s1-6041716/a-long-long-ways-from-home-voyager-1-is-now-farther-than-anything-man-has-sent-into-space",
+    "source": "NPR Science",
+    "publishedAt": "2026-11-15T22:41:22.000Z",
+    "topic": "Space",
+    "summary": "NASA's Voyager 1 probe is set to reach a new distance milestone this week, moving approximately 16 billion miles from Earth, making it a \"light-day\" away. The spacecraft remains the furthest human-made object from our planet.",
+    "summaryIsFallback": false,
+    "coverageScore": 1,
+    "featured": false,
+    "addedAt": "2026-11-22T19:16:20.121Z"
+  },
+  {
     "id": "daa3bc434878d859250d975a2403b6415c7c13c1",
     "title": "A new policy could help solve the U.S. organ shortage. Critics say it's unethical",
     "url": "https://www.npr.org/2026/11/14/nx-s1-6032604/organ-transplant-donor-dead-ethics",
@@ -531,18 +544,5 @@
     "coverageScore": 1,
     "featured": false,
     "addedAt": "2026-10-10T00:38:15.753Z"
-  },
-  {
-    "id": "75eaa16bf48eccb8d9873148d3c180f00811c5f8",
-    "title": "4 people on NASA's Crew-12 mission return to Earth after 8 months in space",
-    "url": "https://www.npr.org/2026/10/08/nx-s1-5992845/nasa-spacex-crew-12-international-space-station-iss-splashdown",
-    "source": "NPR Science",
-    "publishedAt": "2026-10-08T15:34:39.000Z",
-    "topic": "Space",
-    "summary": "A crew of four astronauts from NASA, the European Space Agency, and Russia returned to Earth after eight months aboard the International Space Station. During their mission, the crew conducted spacewalks, science experiments, and research operations.",
-    "summaryIsFallback": false,
-    "coverageScore": 1,
-    "featured": false,
-    "addedAt": "2026-10-08T16:15:50.379Z"
   }
 ]
