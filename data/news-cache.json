@@ -544,31 +544,5 @@
     "coverageScore": 1,
     "featured": false,
     "addedAt": "2026-10-08T16:15:50.379Z"
-  },
-  {
-    "id": "68265cfed99d7253aee3d15641bc58d1f761cc59",
-    "title": "Medical debt is crushing hospital patients in LA. Health officials may have a fix",
-    "url": "https://www.npr.org/2026/10/08/nx-s1-5991633/hospital-california-healthcare-medical-debt",
-    "source": "NPR Science",
-    "publishedAt": "2026-10-08T09:00:00.000Z",
-    "topic": "Health",
-    "summary": "Los Angeles County is implementing a new screening system to identify hospital patients eligible for financial aid, potentially preventing hundreds of thousands from receiving unaffordable medical bills. The policy addresses medical debt accumulation among hospital patients in the nation's most populous county.",
-    "summaryIsFallback": false,
-    "coverageScore": 1,
-    "featured": false,
-    "addedAt": "2026-10-08T16:15:51.362Z"
-  },
-  {
-    "id": "ec31147e30be11020e22634e33976e0785099707",
-    "title": "Women are talking about menopause — health systems must listen",
-    "url": "https://www.nature.com/articles/d41586-026-03218-5",
-    "source": "Nature News",
-    "publishedAt": "2026-10-08T00:00:00.000Z",
-    "topic": "Health",
-    "summary": "Women are increasingly discussing menopause openly, highlighting the need for health systems to better address this stage of life. The article argues that healthcare providers should improve their response to menopause-related concerns and patient experiences.",
-    "summaryIsFallback": false,
-    "coverageScore": 1,
-    "featured": false,
-    "addedAt": "2026-10-10T13:27:50.165Z"
   }
 ]
